@@ -42,7 +42,7 @@ end
 end
 
 function Henry()
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/V.L.A.D.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/V.L.A.D.lua").content
 if not TG then
 os.exit()
 else
@@ -51,7 +51,7 @@ end
 end
 
 function Henry2()
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/%E0%BC%BA%EA%A7%81%E0%BC%92%E2%98%AC%20%C6%AC%E0%AB%AF%E0%AA%BD%C6%AC%20%E0%AA%BD%E0%AB%AE%E0%AB%A8i%CF%81%C6%AC%20BY%20HENRY%20%E0%B9%8FP%E2%98%AC%E0%BC%92%EA%A7%82.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/Severance.lua").content
 if not TG then
 os.exit()
 else
@@ -60,7 +60,7 @@ end
 end
 
 function Henry3()
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/SpecHackMc5.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/Spec.lua").content
 if not TG then
 os.exit()
 else
@@ -70,7 +70,7 @@ end
 
 
 function Henry4() 
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/%E2%82%91%E2%82%9B%E2%82%9A%E2%82%91C%E1%B5%A2%E2%82%90%E2%82%97%E2%82%8B%E2%82%97.%E2%82%90.%E2%82%96%20%E2%82%95%E2%82%90C%E2%82%96.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/L.A.K.lua").content
 if not TG then
 os.exit()
 else
@@ -82,7 +82,7 @@ end
 
 
 function Henry5() 
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/Disconnection.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/Desconexion.lua").content
 if not TG then
 os.exit()
 else
@@ -91,7 +91,7 @@ end
 end
 
 function Henry6() 
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/Terminator.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/%F0%9F%86%83%F0%9F%85%B4%F0%9F%86%81%F0%9F%85%BC%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B0%F0%9F%86%83%F0%9F%85%BE%F0%9F%86%81.lua").content
 if not TG then
 os.exit()
 else
@@ -101,7 +101,7 @@ end
 
 
 function Henry7() 
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/%F0%9F%85%B6%F0%9F%85%BE%F0%9F%85%BB%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%BD%20%F0%9F%86%85%F0%9F%85%BE%F0%9F%85%B8%F0%9F%85%B3.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/%F0%9F%85%B6%F0%9F%85%BE%F0%9F%85%BB%F0%9F%85%B3%F0%9F%85%B4%F0%9F%85%BD%20%F0%9F%86%85%F0%9F%85%BE%F0%9F%85%B8%F0%9F%85%B3.lua").content
 if not TG then
 os.exit()
 else
@@ -111,7 +111,7 @@ end
 
 
 function Henry8() 
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/Fix%20zombie%20menu.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/Zombie%20fixed.lua").content
 if not TG then
 os.exit()
 else
@@ -122,7 +122,7 @@ end
 
 
 function Henry9() 
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/Disconnection.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/IMPS%20IN%20MAELSTROM.lua").content
 if not TG then
 os.exit()
 else
@@ -132,7 +132,7 @@ end
 
 
 function Henry10() 
-TG = gg.makeRequest("https://raw.githubusercontent.com/HenryyOp77hsv/HenryyOp77hsv/main/No%20weapon.lua").content
+TG = gg.makeRequest("https://raw.githubusercontent.com/HenrScriptsProLua1/Mc.lua/main/%F0%9F%93%82%E2%82%99%E2%82%92W%E2%82%91%E2%82%90%E2%82%9A%E2%82%92%E2%82%99%E2%98%9E%E2%82%98%E2%82%90%E2%82%91%E2%82%97%E2%82%9B%E2%82%9C%E1%B5%A3%E2%82%92%E2%82%98%E2%98%A0%EF%B8%8F%CA%9C%E1%B4%87%C9%B4%CA%80%CA%8F%20%EA%9C%B1.lua").content
 if not TG then
 os.exit()
 else
