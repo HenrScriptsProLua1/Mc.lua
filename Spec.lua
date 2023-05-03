@@ -1,7 +1,8 @@
-if os.date("%Y%m%d") > "20231220" then
-hh= gg.alert("⚠️⚠️ACTIVACIÓN DE SCRIPT OBLIGATORIA⚠️⚠️")
-os.exit()
-end
+gg.alert("🆂🅲🆁🅸🅿🆃 🅱🆈 🅷🅴🅽🆁🆈 🆂 🐰🍫☠️ₜₑₛₜ ᵥᵢₚ ₚₑₐCₕY ₑᵥₑₙₜ ☠️🍫🐰ㅤㅤㅤㅤㅤ ㅤ🇼​🇪​🇱​🇨​🇴​🇲​🇪​ 🇹​🇴​ 🇭​🇪​🇳​🇷​🇾​ 🇸​ 🇲​🇴​🇩​ 🇸​🇨​🇷​🇮​🇵​🇹​ 🇭​🇦​🇨​🇰​ ══┈┈┈┄┄╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┄┄┈┈┈┈┄┈┈┈┈┈┄┄╌╌╌╌══\n⊚ 🐰🍫☠️ʀᴇᴀᴅʏ-ᴛᴏ-ᴜꜱᴇ ꜱᴄʀɪᴘᴛ ꜱᴇʟᴇᴄᴛꜱ ᴄᴏɴᴠᴇɴɪᴇɴᴛ ᴏᴘᴛɪᴏɴꜱ ☠️🍫🐰Nᴇᴡ Sᴄʀɪᴘᴛ ᴠ1 1.69.x \n⊚ ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️\n══┈┈┈┄┄╌╌╌╌┄┄┈╌╌╌╌╌╌╌╌╌╌╌╌╌╌┈┈┈┄┈┈┈┈┈┄┄╌╌╌╌══")
+gg.toast("ꈜꏳꌅ꒐ꉣꋖ ꏳꌅꁲꑒꐔ ꋖꌈꃔ꒐ꈜ꒐ꁲꃔꁲ ꅐꑀ꒒ꏳꊿꂵ ꋖꊿ ꃳꑀꐔ ꂵꐔ ꁝꁲꏳꈵ ꃳꐔ ꌅꑀꏳꊿꃔ")
+gg.toast ("WAITE TO CONECTED ᔕHenry S Op,")
+---LOADING STEP-[2] (💥Henry S Pro op hack💥)---
+
 
 
 while(true) do
@@ -15,7 +16,7 @@ START = 1
 -- tidak akan di exsekusi oleh script 
 -- hanya untuk pengingat 
 function START()
-menu = gg.choice({" ════════════════════════════════════════════════      🄼🄴🄽🅄 🅂🄲🅁🄸🄿🅃 🄱🅈 🄷🄴🄽🅁🅈 🅂                                                                                   ㅤㅤㅤㅤ                          ㅤ                          ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                   ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ ════════════════════════════════════════════════","☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ   ━─━─────༺ᴇxɪᴛ༻─────━─━   ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ ","┏═════════════════════════════════════════════┓      🄸🄽🄵🄾 🄳🄴🄻 🄲🅁🄴🄰🄳🄾🅁==🄴🅂🅃🄴 🄷🄰🄲🄺 🄷🄰 🅂🄸🄳🄾 🄲🅁🄴🄰🄳🄾 🅈 🄼🄾🄳🄸🄵🄸🄲🄰🄳🄾 🄿🄾🅁 🄷🄴🄽🅁🅈 🅂. 🄻🄰 🄳🄸🅂🅃🅁🄸🄱🅄🄲🄸Ó🄽 🄳🄴🄻 🄷🄰🄲🄺 🅂🄸🄽 🄿🄰🄶🄰🅁 🄴🅂🅃🄰 🄿🅁🄾🄷🄸🄱🄸🄳🄰 🄴🄻 🄷🄰🄲🄺 🄴🅂 🅃🄾🅃🄰🄻🄼🄴🄽🅃🄴 🄳🄴 🄿🄰🄶🄰 🄴🄻 🄷🄰🄲🄺 🄲🅄🄴🄽🅃🄰 🄲🄾🄽 🄳🄴🅃🄴🄲🄲🄸Ó🄽 🄳🄴 🄲🄾🄽🄴🅇🄸🄾🄽🄴🅂 🅈 🄼🄾🄳🄸🄲🄰🄲🄸🄾🄽🄴🅂 🅂🄸 🅃🅁🄰🅃🄰🅂 🄳🄴 🅄🅂🄰🅁🄻🄾 🅂🄸🄽 🄰🅄🅃🄾🅁🄸🅉🄰🄲🄸Ó🄽 🅃🅄 🅂🅄🅂🄲🅁🄸🄿🄲🄸ó🄽 🅂🄴🅁á 🄴🄻🄸🄼🄸🄽🄰🄳🄰 🅈 🅃🄴🄽🄳🅁Á🅂 🅀🅄🄴 🄲🄾🄽🅃🄰🄲🅃🄰🅁 🄰🄻 🅂🄴🅁🅅🄴🅁 🄲🄷🄴🄰🅃🄴🅁 (🄷🅃🅃🄿🅂://🅃.🄼🄴/🄷🄴🄽🅁🅈🅂🄾🄿🄰🄰🄸🄻🄾🅅🄴🅁) 🄷🅂🅅 🄸🄽🅃🄴🅁🄿🅁🄸🄲🄴 🄰🄻🄻 🅁🄸🄶🄷🅃🅂 🅁🄴🅂🄴🅁🅅🄴🄳 🄵🄾🅁 🅃🄷🄸🅂 🅂🄲🅁🄸🄿🅃 ™ 2022👁️🛑                                                                          ━─━────═════════༺ʜᴇɴʀʏ mc5 ꜱᴄʀɪᴘᴛ༻══════════────━─━"} )
+menu = gg.choice({"╭────────────────╮\n📂ₛcᵣᵢₚₜ ᵤₗₜᵣₐ ₘₒd ₘₑₙú ᴮʸ    ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️\n╰────────────────╯","╭───────────────────────────╮\n ☞☠️━─━──── E⃢​    X⃢​    I⃢​    T⃢─────━─━☠️☞\n╰───────────────────────────╯","╭─────────────────────────────────────╮\n       🄸🄽🄵🄾 🄳🄴🄻 🄲🅁🄴🄰🄳🄾🅁==🄴🅂🅃🄴 🄷🄰🄲🄺 🄷🄰 🅂🄸🄳🄾 🄲🅁🄴🄰🄳🄾 🅈 🄼🄾🄳🄸🄵🄸🄲🄰🄳🄾 🄿🄾🅁 🄷🄴🄽🅁🅈 🅂. 🄻🄰 🄳🄸🅂🅃🅁🄸🄱🅄🄲🄸Ó🄽 🄳🄴🄻 🄷🄰🄲🄺 🅂🄸🄽 🄿🄰🄶🄰🅁 🄴🅂🅃🄰 🄿🅁🄾🄷🄸🄱🄸🄳🄰 🄴🄻 🄷🄰🄲🄺 🄴🅂 🅃🄾🅃🄰🄻🄼🄴🄽🅃🄴 🄳🄴 🄿🄰🄶🄰 🄴🄻 🄷🄰🄲🄺 🄲🅄🄴🄽🅃🄰 🄲🄾🄽 🄳🄴🅃🄴🄲🄲🄸Ó🄽 🄳🄴 🄲🄾🄽🄴🅇🄸🄾🄽🄴🅂 🅈 🄼🄾🄳🄸🄲🄰🄲🄸🄾🄽🄴🅂 🅂🄸 🅃🅁🄰🅃🄰🅂 🄳🄴 🅄🅂🄰🅁🄻🄾 🅂🄸🄽 🄰🅄🅃🄾🅁🄸🅉🄰🄲🄸Ó🄽 🅃🅄 🅂🅄🅂🄲🅁🄸🄿🄲🄸ó🄽 🅂🄴🅁á 🄴🄻🄸🄼🄸🄽🄰🄳🄰 🅈 🅃🄴🄽🄳🅁Á🅂 🅀🅄🄴 🄲🄾🄽🅃🄰🄲🅃🄰🅁 🄰🄻 🅂🄴🅁🅅🄴🅁 🄲🄷🄴🄰🅃🄴🅁 (🄷🅃🅃🄿🅂://🅃.🄼🄴/🄷🄴🄽🅁🅈🅂🄾🄿🄰🄰🄸🄻🄾🅅🄴🅁) 🄷🅂🅅 🄸🄽🅃🄴🅁🄿🅁🄸🄲🄴 🄰🄻🄻 🅁🄸🄶🄷🅃🅂 🅁🄴🅂🄴🅁🅅🄴🄳 🄵🄾🅁 🅃🄷🄸🅂 🅂🄲🅁🄸🄿🅃 ™ 2022                                                                          \n╰─────────────────────────────────────╯"} )
 if menu == 1 then ch1() end
 if menu == 2 then fin() end
 
@@ -23,9 +24,10 @@ menuk = -1
 end
 
 
+
 -- function ch1
 function ch1()
-menuch1 = gg.multiChoice({"ₘₐₑₗₛₜᵣₒₘ₋ₛₚₑC ₛᵤₚₑᵣ ₒₚ+                                                                                  🩸ㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ                                  ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️","🅰🅸🅼🅱🅾🆃 🅾🅽                                                                                   🩸ㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ                                  ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️","🥶ₛₚₑC₋₃₈ₐ 🥶ᵢₙ ₘₐₑₗₛₜᵣₒₘ🔫                                                                                            🩸ㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ                                  ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️","🥶ₐₗₗ ᵢₙ ₁ FᵤₙCₜᵢₒₙ FᵣₑₑZₑ ₚᵢₛₜₒₗ🔫                                                                                            🩸ㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ                                  ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️","🥶FᵣₑₑZₑ ₚᵢₛₜₒₗ ᵢₙ ₘₛG₃₃🔫                                                                                            🩸ㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ                                  ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️","ˢᴵˣᵀᴴ ˢᴱᴺˢᴱ ᶜᴼᴿᴱ ᴴᴬᶜᴷ                                                                                            🩸ㅤㅤㅤㅤㅤㅤㅤㅤㅤ  ㅤ                                  ☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️"},nil,"Hackss by ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ CHUPALO JERRY 👉🏻🥺👈🏻")
+menuch1 = gg.multiChoice({"╭───────────────────────────────────|\n📂ₘₐₑₗₛₜᵣₒₘ₋ₛₚₑC ₛᵤₚₑᵣ ₒₚ+(ᴸᵒᵇᵇʸ)☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ㅤㅤㅤㅤ\n╰───────────────────────────────────|","╭───────────────────────────────────|\n📂🅰🅸🅼🅱🅾🆃 🅾🅽(ᴵⁿᵍᵃᵐᵉ)☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ㅤㅤㅤㅤ\n╰───────────────────────────────────|","╭───────────────────────────────────|\n📂🥶ₛₚₑC₋₃₈ₐ 🥶ᵢₙ ₘₐₑₗₛₜᵣₒₘ🔫(ᴵⁿᵍᵃᵐᵉ)☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ㅤㅤㅤㅤ\n╰───────────────────────────────────|","╭───────────────────────────────────|\n📂🥶ₐₗₗ ᵢₙ ₁ FᵤₙCₜᵢₒₙ FᵣₑₑZₑ ₚᵢₛₜₒₗ🔫(ᴸᵒᵇᵇʸ)☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ㅤㅤㅤㅤ\n╰───────────────────────────────────|","╭───────────────────────────────────|\n📂🥶FᵣₑₑZₑ ₚᵢₛₜₒₗ ᵢₙ ₘₛG₃₃🔫(ᴵⁿᵍᵃᵐᵉ)☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ㅤㅤㅤㅤ\n╰───────────────────────────────────|","╭───────────────────────────────────|\n📂ˢᴵˣᵀᴴ ˢᴱᴺˢᴱ ᶜᴼᴿᴱ ᴴᴬᶜᴷ(ᴸᵒᵇᵇʸ)☠️ʜᴇɴʀʏ ꜱ ꜱᴄʀɪᴘᴛ☠️ㅤㅤㅤㅤ\n╰───────────────────────────────────|"},nil,"🇭​🇪​🇳​🇷​🇾​ 🇸​ 🇲​🇴​🇩​ 🇸​🇨​🇷​🇮​🇵​🇹​ 🇭​🇦​🇨​🇰​ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🐰🍫☠️ʀᴇᴀᴅʏ-ᴛᴏ-ᴜꜱᴇ ꜱᴄʀɪᴘᴛ ꜱᴇʟᴇᴄᴛꜱ ᴄᴏɴᴠᴇɴɪᴇɴᴛ ᴏᴘᴛɪᴏɴꜱ ultra millonary bug for peachy event☠️🍫🐰.")
 if menuch1 == nil then else 
 if menuch1[1] == true then ant() end
 if menuch1[2] == true then ant2() end
@@ -52,34 +54,7 @@ for i, v in ipairs(t) do
 end
 gg.addListItems(t)
 t = nil
-
-
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("59.0;64.0;51.0;42.0;38.0;1534.0;81.0:465", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("51", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
-
-revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
-local t = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
-for i, v in ipairs(t) do
-	if v.flags == gg.TYPE_FLOAT then
-		v.value = "999999999999"
-		v.freeze = true
-	end
-end
-gg.addListItems(t)
-t = nil
-
-
-revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
-local t = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
-for i, v in ipairs(t) do
-	if v.flags == gg.TYPE_FLOAT then
-		v.value = "9.99999996e11"
-		v.freeze = true
-	end
-end
-gg.addListItems(t)
-gg.clearResults()
+gg.clearResults() 
 
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber('121.0F;34.79999923706F;64.0F', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -109,14 +84,6 @@ end
 gg.addListItems(t)
 t = nil
 gg.clearResults()
-
-gg.setRanges(gg.REGION_CODE_APP)
-gg.searchNumber("-0.0001", gg.TYPE_FLOAT)
-gg.getResults(10)
-gg.editAll("999999999999999", gg.TYPE_FLOAT)
-gg.clearResults()
-gg.clearResults()
-
 gg.toast('ʍα૯ℓઽƬ૨ѳʍ-ઽρ૯૮ 38 ઽષρ૯૨ ѳρ+ઽρ૯૯đ+đαʍαG૯+αIʍвѳƬ+ทѳ ૨૯૮ѳIℓ')
 end
 
@@ -124,6 +91,7 @@ end
 
 function ant2()
 gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("0.00499999989F;0.18000000715F;0.03999999911F", gg.TYPE_FLOAT) 
 gg.searchNumber("0.005;0.180", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 revert = gg.getResults(1000, nil, nil, nil, nil, nil, nil, nil, nil)
 gg.editAll("9999.8", gg.TYPE_FLOAT)
@@ -138,7 +106,7 @@ gg.searchNumber("-0.0001", gg.TYPE_FLOAT)
 gg.getResults(10)
 gg.editAll("9999.8", gg.TYPE_FLOAT)
 gg.clearResults()
-gg.toast("🅰🅸🅼🅱🅾🆃")
+gg.toast("👀🅰🅸🅼🅱🅾🆃 AND ᵢₘₚₛ ₛₙᵢₚₑᵣ👀")
 end
 
 
@@ -158,6 +126,7 @@ end
 gg.addListItems(t)
 t = nil
 gg.clearResults()
+
 gg.toast("🥶SPEC38A ICED🥶 CODE FREEZE 🥶")
 end
 
@@ -192,6 +161,24 @@ if v.flags == gg.TYPE_FLOAT then
 v.value = "-177"
 v.freeze = true
 end
+end
+gg.addListItems(t)
+t = nil
+gg.clearResults()
+
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber('"51.0F;233377.0F;233568.0F:41"', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber('"51"', gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll('"1.0e10"', gg.TYPE_FLOAT)
+
+revert = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+	if v.flags == gg.TYPE_FLOAT then
+		v.value = '"1.0e10"'
+		v.freeze = true
+	end
 end
 gg.addListItems(t)
 t = nil
