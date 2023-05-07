@@ -194,23 +194,6 @@ gg.addListItems(t)
 t = nil
 
 gg.clearResults()
-
-
-
-gg.setRanges(gg.REGION_CODE_APP)
-
-gg.searchNumber("-0.0001", gg.TYPE_FLOAT)
-
-gg.getResults(10)
-
-gg.editAll("999999999999999", gg.TYPE_FLOAT)
-
-gg.clearResults()
-
-gg.clearResults()
-
-
-
 gg.toast('ʍα૯ℓઽƬ૨ѳʍ-ઽρ૯૮ 38 ઽષρ૯૨ ѳρ+ઽρ૯૯đ+đαʍαG૯+αIʍвѳƬ+ทѳ ૨૯૮ѳIℓ')
 
 end
@@ -250,14 +233,21 @@ t = nil
 gg.clearResults() 
 
 
+gg.searchNumber("0.005;0.180", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+revert = gg.getResults(1000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("9999.8", gg.TYPE_FLOAT)
+if revert ~= nil then gg.setValues(revert) end
+revert = gg.getResults(1000, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("9999.8", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("ʜᴇᴀᴅsʜᴏᴛ")
 
-  gg.searchNumber("0.00499999989F;0.18000000715F;0.03999999911F", gg.TYPE_FLOAT)
-    gg.getResults(99999)
-    gg.searchNumber("0.005F", gg.TYPE_FLOAT)
-    gg.getResults(99999)
-    gg.editAll("9999.7", gg.TYPE_FLOAT)
-    gg.clearResults()
-    gg.toast("ʜᴇᴀᴅsʜᴏᴛ ᴀɪ̇ᴍ ᴏɴ(ᴠᴇʀʏ ʜɪ̇ɢʜ)")
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber("-0.0001", gg.TYPE_FLOAT)
+gg.getResults(10)
+gg.editAll("9999.8", gg.TYPE_FLOAT)
+gg.clearResults() 
+gg.toast("ʜᴇᴀᴅsʜᴏᴛ ᴀɪ̇ᴍ ᴏɴ(ᴠᴇʀʏ ʜɪ̇ɢʜ)")
 end
 
 
